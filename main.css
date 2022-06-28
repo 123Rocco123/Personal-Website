@@ -7,3 +7,12 @@ h1 {
 p {
     padding: 10px;
 }
+
+#two {
+    width: 50%;
+    background-color: grey;
+    padding: 1px 10px 1px 10px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
