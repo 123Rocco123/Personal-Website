@@ -3,3 +3,7 @@ h1 {
   text-align: center;
   text-decoration: underline;
 }
+
+p {
+    padding: 10px;
+}
