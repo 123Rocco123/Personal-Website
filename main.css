@@ -4,11 +4,13 @@ h1 {
   text-decoration: underline;
 }
 
+/* Paragraph Formatting */
 p {
     padding: 10px;
 }
 
-#two {
+/* Used to format the outside section containing the paragraph.*/
+#IntroParagraphOuterSec {
     width: 50%;
     background-color: grey;
     padding: 1px 10px 1px 10px;
@@ -17,7 +19,8 @@ p {
     margin-right: auto;
 }
 
-#one {
+/* Used to format the inside section containing the paragraph. */
+#IntroParagraphInnerSec {
     text-align: justify;
     width: 100%;
     
