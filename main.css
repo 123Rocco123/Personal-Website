@@ -57,4 +57,13 @@ ul li a button {
 ul li a button:hover {
     background-color: white;
 }
+
+/* Footer used for links at the bottom of the page */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+    text-align: center;
+}
 }
