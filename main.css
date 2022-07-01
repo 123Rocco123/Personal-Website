@@ -66,4 +66,8 @@ footer {
     
     text-align: center;
 }
+
+ul li a #linkedInButt {
+    width: 60px;
+}
 }
