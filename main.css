@@ -44,4 +44,8 @@ ul {
     list-style: none;
     margin: none;
 }
+
+ul li {
+    float: inherit;
+}
 }
