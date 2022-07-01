@@ -48,4 +48,9 @@ ul {
 ul li {
     float: inherit;
 }
+
+ul li a button {
+    padding: 10px;
+    background-color: grey;
+}
 }
