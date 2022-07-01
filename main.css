@@ -1,7 +1,15 @@
 /* Main Website Title  */
 h1 {
-  text-align: center;
-  text-decoration: underline;
+    /* Header Spacing */
+    margin: 10px 0 10px 0;
+    
+    /* Text Decoration */
+    text-align: center;
+    text-decoration: underline;
+    
+    /* Font Decoration */
+    font-size: 20px;
+    font-weight: bolder;
 }
 
 /* Paragraph Formatting */
