@@ -71,8 +71,18 @@ ul li a:hover {
     left: 10%;
 }
 
-ul li a #linkedInButt {
+.logos {
     width: 60px;
+    padding: 10px;
+    
+    background-color: grey;
+    list-style: none;
+    margin: none;
+}
+
+.logos:hover {
+    
+}
 }
 
 #linkedInLogo {
