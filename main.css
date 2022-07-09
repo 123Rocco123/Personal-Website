@@ -104,6 +104,9 @@ ul li a:hover {
     display: flex;
 }
 
-#linkedInLogo {
-    width: 40px;
+/* Clear floats after image containers */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
 }
