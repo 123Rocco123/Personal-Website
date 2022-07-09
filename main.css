@@ -40,21 +40,25 @@ p {
 
 /* Used for the Styling of the Navigation Bar  */
 ul {
-    background-color: grey;
-    list-style: none;
-    margin: none;
+    overflow: hidden;
+    background: grey;
 }
 
 ul li {
     float: inherit;
+    list-style: none;
 }
 
-ul li a button {
-    padding: 10px;
+ul li a {
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    
     background-color: grey;
+    float: left;
 }
 
-ul li a button:hover {
+ul li a:hover {
     background-color: white;
 }
 
