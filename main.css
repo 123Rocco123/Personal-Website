@@ -62,51 +62,8 @@ ul li a:hover {
     background-color: white;
 }
 
-/* Footer used for links at the bottom of the page */
-.icons {
-    background-color: grey;
-    
-    position: absolute;
-    top: 50%;
-    left: 10%;
 }
 
-.logos {
-    width: 60px;
-    padding: 10px;
-    
-    background-color: grey;
-    list-style: none;
-    margin: none;
 }
 
-.logos:hover {
-    
-}
-
-.column {
-    float: left;
-    width: 60px;
-    padding: 5px;
-}
-
-
-.row {
-    position: fixed;
-    margin-top: 50px;
-    
-    left: 50%;
-    transform: translateX(-50%);
-    
-    background-color: grey;
-    padding: 10px 10px 0px 10px;
-    
-    display: flex;
-}
-
-/* Clear floats after image containers */
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
 }
