@@ -62,8 +62,15 @@ ul li a:hover {
     background-color: white;
 }
 
+/* Used for the "My Skills" header */
+.skillsHeader {
+    margin-top: 20px;
 }
 
+#gitHub {
+    width: 50%;
 }
 
+#Python {
+    padding-top: 25px;
 }
